@@ -32,13 +32,16 @@ Q2: What is the answer?
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
+*_Nikki_:  I've spent the last 15 years in the infrastructure world of IT.  Now that Nationwide is beginning to move to the cloud, having solid coding skills will be needed to transition to an Infrastructure as code cloud environment.
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
+*_Nikki_:  I'm not much of a world traveler.  I'm a bit of a home body, but my wife and I have been trying to start taking vacations as of late.  We've been to Seattle, Colorado, and most recently, we went to Cancun.  Cancun was my favorite thus far because, well...rum.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
+*_Nikki_:  I guess John Lennon is my favorite Beatle.  My one and only favorite Beatles song is Lucy in the Sky with Diamonds.
 
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
-
+*_Nikki_:  I have two dogs and one cat.  My dogs are 9 year old golden retrievers.  They are siblings named Sullivan (boy) and Keller (girl.)  Our cat is an unknown age, short haired, tuxedo.  His name is Stanley Tucci and he believes himself to be a revered russian cosmonaut.
 
 ## Submitting Your Work
 Once I have merged your pull request into my repo, please submit your repo along with a screenshot of your pull request in Blackboard.
