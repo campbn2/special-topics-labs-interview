@@ -35,7 +35,7 @@ Q1: So you're finishing up your time in this CSCC program.  Why did you decide t
 *_Nikki_:  I've spent the last 15 years in the infrastructure world of IT.  Now that Nationwide is beginning to move to the cloud, having solid coding skills will be needed to transition to an Infrastructure as code cloud environment.
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
-*_Nikki_:  I'm not much of a world traveler.  I'm a bit of a home body, but my wife and I have been trying to start taking vacations as of late.  We've been to Seattle, Colorado, and most recently, we went to Cancun.  Cancun was my favorite thus far because, well...rum.  I'd really like to go to Hawaii next, but am kind of dreading the flight.
+*_Nikki_:  I'm not much of a world traveler.  I'm a bit of a home body, but my wife and I have been trying to start taking vacations as of late.  We've been to Seattle, Colorado, and most recently, we went to Cancun.  Cancun was my favorite thus far because, well...rum.  I'd really like to go to Hawaii next, but am kind of dreading the flight.  I think the thing that interests me most about Hawaii is the fact that I could go up in the mountains and out on the beach all in the same vacation.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
 *_Nikki_:  I guess John Lennon is my favorite Beatle.  My one and only favorite Beatles song is Lucy in the Sky with Diamonds.
